@@ -1,4 +1,4 @@
-# Test task for SDET (Autotest Developer) at Practicum USA
+# Test task for SDET (Autotest Developer) at Practicum
 
 You have three tasks to complete. The task descriptions are in the README files of their corresponding folders.
 
